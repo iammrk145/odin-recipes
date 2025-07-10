@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+img{
+    display:block;
+    width: 400px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.header{
+    background-color: antiquewhite;
+    padding: 6px;
+    text-align: center;
+}
+
+.title{
+    background-color: rgba(138, 236, 204, 0.727);
+    padding: 4px;
+}
+
+.list{
+    background-color: rgb(195, 253, 255);
+}
+
+a{
+    border: 1px black solid;
+    background-color: rgb(24, 212, 90);
+    padding: 10px 14px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
